@@ -1,0 +1,149 @@
+<linker>
+	<assembly fullname="UnityEngine">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="LightPanel">
+			<method name="SetShakeButton"/>
+			<method name="SetOnOffButton"/>
+			<method name="SetShakeCount"/>
+			<method name="SetShakeCount"/>
+			<method name="UpdateShakeButton"/>
+			<method name="SetShakeCount"/>
+			<method name="SetLight"/>
+			<method name="UpdateOnOffButton"/>
+		</type>
+		<type fullname="SaveData">
+			<method name="Save"/>
+			<method name="Save"/>
+			<method name="Save"/>
+			<method name="Save"/>
+			<method name="Save"/>
+			<method name="Save"/>
+			<method name="Save"/>
+			<method name="Save"/>
+			<method name="Save"/>
+			<method name="Save"/>
+			<method name="Save"/>
+			<method name="Save"/>
+			<method name="Save"/>
+			<method name="Save"/>
+			<method name="Save"/>
+			<method name="Save"/>
+			<method name="Save"/>
+			<method name="Save"/>
+		</type>
+		<type fullname="SoundPlayer">
+			<method name="PlayHigh"/>
+			<method name="PlayLow"/>
+			<method name="PlayLow"/>
+			<method name="PlayLow"/>
+			<method name="PlayLow"/>
+			<method name="PlayLow"/>
+			<method name="PlayHigh"/>
+			<method name="PlayLow"/>
+			<method name="PlayHigh"/>
+			<method name="PlayHigh"/>
+			<method name="PlayHigh"/>
+			<method name="PlayHigh"/>
+			<method name="PlayHigh"/>
+			<method name="PlayLow"/>
+			<method name="PlayHigh"/>
+			<method name="PlayHigh"/>
+			<method name="PlayLow"/>
+			<method name="PlayLow"/>
+			<method name="PlayHigh"/>
+			<method name="PlayHigh"/>
+			<method name="PlayHigh"/>
+			<method name="PlayLow"/>
+			<method name="PlayHigh"/>
+			<method name="PlayHigh"/>
+			<method name="PlayHigh"/>
+			<method name="PlayHigh"/>
+			<method name="PlayHigh"/>
+			<method name="PlayHigh"/>
+		</type>
+		<type fullname="UIMovement">
+			<method name="MoveOffRight"/>
+			<method name="MoveOnLeft"/>
+			<method name="MoveOnLeft"/>
+			<method name="MoveOffRight"/>
+			<method name="MoveOnLeft"/>
+			<method name="MoveOffRight"/>
+			<method name="MoveOnLeft"/>
+			<method name="MoveOnLeft"/>
+			<method name="MoveOffLeft"/>
+			<method name="MoveOnRight"/>
+			<method name="MoveOffLeft"/>
+			<method name="MoveOffLeft"/>
+			<method name="MoveOnRight"/>
+			<method name="MoveOffLeft"/>
+			<method name="MoveOffLeft"/>
+			<method name="MoveOnRight"/>
+			<method name="MoveOnRight"/>
+			<method name="MoveOffLeft"/>
+			<method name="MoveOnRight"/>
+			<method name="MoveOffRight"/>
+			<method name="MoveOnLeft"/>
+			<method name="MoveOnLeft"/>
+			<method name="MoveOffRight"/>
+			<method name="MoveOnLeft"/>
+			<method name="MoveOffRight"/>
+			<method name="MoveOffLeft"/>
+			<method name="MoveOnRight"/>
+			<method name="MoveOffLeft"/>
+		</type>
+		<type fullname="SettingsPanel">
+			<method name="UpdateText"/>
+			<method name="UpdateText"/>
+			<method name="UpdateText"/>
+			<method name="UpdateText"/>
+		</type>
+		<type fullname="Timer">
+			<method name="Add"/>
+			<method name="Add"/>
+			<method name="SetAppearanceToBattery"/>
+			<method name="Add"/>
+			<method name="SetAppearanceToClock"/>
+			<method name="Add"/>
+			<method name="SetAppearanceToSegmentedBattery"/>
+			<method name="set_isRunning"/>
+			<method name="Add"/>
+			<method name="AddBonus"/>
+			<method name="Add"/>
+			<method name="Release"/>
+			<method name="Toggle"/>
+			<method name="Reset"/>
+			<method name="Add"/>
+			<method name="Add"/>
+		</type>
+		<type fullname="TorchControler">
+			<method name="SetTorchToRegulated"/>
+			<method name="Off"/>
+			<method name="Off"/>
+			<method name="SetTorchToPerfect"/>
+			<method name="Reset"/>
+		</type>
+		<type fullname="AppearancePanel">
+			<method name="SetAppearance"/>
+			<method name="UpdateUseColorButton"/>
+			<method name="SetUseColorButton"/>
+		</type>
+		<type fullname="LogoLogic">
+			<method name="Kill"/>
+		</type>
+		<type fullname="BatteryController">
+			<method name="Reset"/>
+		</type>
+	</assembly>
+</linker>
