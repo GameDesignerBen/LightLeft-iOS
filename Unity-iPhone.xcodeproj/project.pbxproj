@@ -901,6 +901,7 @@
 					CoreMotion,
 					"-weak-lSystem",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = "-";
 				PRODUCT_NAME = LightLeft;
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = iphoneos;
@@ -952,6 +953,7 @@
 					CoreMotion,
 					"-weak-lSystem",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = "-";
 				PRODUCT_NAME = LightLeft;
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = iphoneos;
